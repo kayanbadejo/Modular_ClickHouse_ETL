@@ -1,4 +1,0 @@
-pandas
-sqlalchemy
-clickhouse-connect
-python-dotenv
